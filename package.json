@@ -1,0 +1,22 @@
+{
+  "name": "aws-s3",
+  "version": "1.0.0",
+  "description": "assignment-aws-S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pareshnaik96/aws-S3.git"
+  },
+  "keywords": [
+    "group-28"
+  ],
+  "author": "group-28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pareshnaik96/aws-S3/issues"
+  },
+  "homepage": "https://github.com/pareshnaik96/aws-S3#readme"
+}
